@@ -1,0 +1,1 @@
+#250 [PASS] -- test contact model returns a summary of the contact in (<title>) <first> <last> format. function call should fail silently as not all values may be present on contact
